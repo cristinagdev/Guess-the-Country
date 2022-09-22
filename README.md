@@ -1,4 +1,4 @@
-# Guess-the-Country
+# Guess the country
 
 ## Descripción 
 <br/>
