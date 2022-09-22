@@ -11,7 +11,7 @@
 <br/>
 <p align="center">
 <img src="./assets/view.PNG"  />
-<img  src="./assets/view2.PNG"   />
+<img  src="./assets/view2.PNG"  align="right" />
 </p>
 
 
